@@ -34,7 +34,7 @@ Best Hyperparameters:
 
 3.2 Gradient Boosting Regressor:
 
-Similar to the Random Forest Regressor, the Gradient Boosting Regressor underwent Grid Search to optimize its performance. The following hyperparameters were tuned:
+Like the Random Forest Regressor, the Gradient Boosting Regressor underwent Grid Search to optimize its performance. The following hyperparameters were tuned:
 
 ●	n_estimators: Number of boosting stages to be run.
 ●	max_depth: Maximum depth of the individual regression estimators.
